@@ -1,0 +1,25 @@
+.navbar-default {
+	background-color: #195f77;
+}
+.jumbotron {
+	background-color: #195f77;
+}
+
+.jumbotron .resume {
+	color: #75a8ae;
+	font-size: 24 p;
+}
+
+.jumbotron img{
+	//border-radius: 100%;
+	border: 10px solid white;
+}
+
+.section {
+	background-color: #e2fcff;
+}
+
+.quote-section {
+	background-color: #75a8ae;
+
+}
